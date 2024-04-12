@@ -1,0 +1,13 @@
+.home-section {
+    min-height: 40rem;
+}
+
+@media (width >= 992px) {
+    .home-section {
+        height: 85vh;
+    }
+}
+
+/* .home-svg {
+    width: 70%;
+} */
